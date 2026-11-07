@@ -336,3 +336,5 @@ Simulate a full Ethereum network using Shadow.
 
 - [block-explorers](https://github.com/foundry-rs/block-explorers).
 Bindings for the etherscan API and other block explorers.
+- [Chain.Love](https://chain.love/).
+Open-source directory of Ethereum RPC node providers, indexers, block explorers, bridges, and Rust/EVM developer tools ([GitHub](https://github.com/Chain-Love/chain-love)).
